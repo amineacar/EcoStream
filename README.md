@@ -31,7 +31,8 @@ The goal is to help players recognize different types of waste—Paper, Plastic,
 * **Design Pattern:** Object-Oriented Programming (OOP) with abstract classes for `Waste` management.
 * **Timer Logic:** 30ms refresh rate for smooth animations.
 
-
-   `git clone https://github.com/yourusername/EcoStream.git`
+## 📥 Installation
+1. Clone the repository:
+   `git clone https://github.com/amineacar/EcoStream.git`
 2. Open the project in **NetBeans** or any Java IDE.
 3. Run `EcoStream.java` to start the game.
