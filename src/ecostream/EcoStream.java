@@ -9,7 +9,7 @@ public class EcoStream {
     public static void main(String[] args) {
 
         SwingUtilities.invokeLater(() -> {
-            JFrame frame = new JFrame("Eco-Stream: Geri Dönüşüm Oyunu");
+            JFrame frame = new JFrame("Eco-Stream: Recycling Game");
             frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
             frame.setSize(1200, 700);
